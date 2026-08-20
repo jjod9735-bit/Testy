@@ -36,7 +36,7 @@ const MODEL_MAPPING = {
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'openai/gpt-oss-20b',
   'gemini-pro': 'moonshotai/kimi-k2.5',
-  'GLM':'poolside/laguna-xs-2.1'
+  'GLM':'minimaxai/minimax-m3'
 };
 
 // Root endpoint
